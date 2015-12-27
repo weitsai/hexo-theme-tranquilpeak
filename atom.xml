@@ -4,7 +4,7 @@
   
   <link href="/hexo-theme-tranquilpeak//atom.xml" rel="self"/>
   <link href="http://louisbarranqueiro.github.io/hexo-theme-tranquilpeak/"/>
-  <updated>2015-12-21T21:52:20.000Z</updated>
+  <updated>2015-12-27T11:15:25.000Z</updated>
   <id>http://louisbarranqueiro.github.io/hexo-theme-tranquilpeak/</id>
   
   <author>
@@ -19,13 +19,13 @@
     <link href="http://louisbarranqueiro.github.io/hexo-theme-tranquilpeak/2015/06/15/Welcome-to-the-new-Tranquilpeak/"/>
     <id>http://louisbarranqueiro.github.io/hexo-theme-tranquilpeak/2015/06/15/Welcome-to-the-new-Tranquilpeak/</id>
     <published>2015-06-15T20:30:05.000Z</published>
-    <updated>2015-12-21T21:52:20.000Z</updated>
+    <updated>2015-12-27T11:15:25.000Z</updated>
     <content type="html"><![CDATA[<!-- excerpt --></p>
 <p><img src="http://d1u9biwaxjngwg.cloudfront.net/showcases/showcase-v1.6.jpg" alt="Tranquilpeak"><br>Tranquilpeak is a gorgeous responsive theme for Hexo blog framework. It has many features and integrated services to improve user experience.</p>
 <!-- toc -->
 <h2 id="General">General</h2><ul>
 <li><strong>Author</strong> : Louis Barranqueiro</li>
-<li><strong>Version</strong> : 1.6.0 </li>
+<li><strong>Version</strong> : 1.6.1 </li>
 <li><strong>Compatibility</strong> : Hexo 3.0.0 or later</li>
 </ul>
 <h2 id="Features">Features</h2><p><strong>General features :</strong>  </p>
@@ -64,7 +64,7 @@
 <h2 id="Quick_start">Quick start</h2><p>Please read <a href="https://github.com/LouisBarranqueiro/hexo-theme-tranquilpeak/blob/master/docs/user.md" target="_blank" rel="external">user documentation</a>, it’s short and useful to discover all features and possibilities of the theme, especially the  <a href="https://github.com/LouisBarranqueiro/hexo-theme-tranquilpeak/blob/master/docs/user.md#writing-posts" target="_blank" rel="external">writing posts</a> section</p>
 <p><strong>For people who want to use the original version of Tranquilpeak (users)</strong> :</p>
 <ol>
-<li>Download the latest version ready for production utilisation here : <a href="https://github.com/LouisBarranqueiro/hexo-theme-tranquilpeak/releases/download/v1.6.0/hexo-theme-tranquilpeak-built-for-production-1.6.0.zip" target="_blank" rel="external">hexo-theme-tranquilpeak-prod-1.6.0</a>  </li>
+<li>Download the latest version ready for production utilisation here : <a href="https://github.com/LouisBarranqueiro/hexo-theme-tranquilpeak/releases/download/v1.6.1/hexo-theme-tranquilpeak-built-for-production-1.6.1.zip" target="_blank" rel="external">hexo-theme-tranquilpeak-prod-1.6.1</a>  </li>
 <li>Follow <a href="https://github.com/LouisBarranqueiro/hexo-theme-tranquilpeak/blob/master/docs/user.md" target="_blank" rel="external">user documentation</a> to install and configure the theme  </li>
 </ol>
 <p><strong>For people who want to create their own version of tranquilpeak (developers)</strong> :</p>
@@ -371,8 +371,8 @@
     <link href="http://louisbarranqueiro.github.io/hexo-theme-tranquilpeak/2013/10/03/%E4%B8%AD%E6%96%87%E6%B8%AC%E8%A9%A6/"/>
     <id>http://louisbarranqueiro.github.io/hexo-theme-tranquilpeak/2013/10/03/中文測試/</id>
     <published>2013-10-02T23:31:30.000Z</published>
-    <updated>2015-12-11T17:38:46.000Z</updated>
-    <content type="html"><![CDATA[<p>This is a chinese test post to show you how japanese is displayed.</p>
+    <updated>2015-12-27T11:15:25.000Z</updated>
+    <content type="html"><![CDATA[<p>This is a chinese test post to show you how chinese is displayed.</p>
 <p>善我王上魚、產生資西員合兒臉趣論。畫衣生這著爸毛親可時，安程幾？合學作。觀經而作建。都非子作這！法如言子你關！手師也。<br><a id="more"></a><br>以也座論頭室業放。要車時地變此親不老高小是統習直麼調未，行年香一？</p>
 <p>就竟在，是我童示讓利分和異種百路關母信過明驗有個歷洋中前合著區亮風值新底車有正結，進快保的行戰從：弟除文辦條國備當來際年每小腳識世可的的外的廣下歌洲保輪市果底天影；全氣具些回童但倒影發狀在示，數上學大法很，如要我……月品大供這起服滿老？應學傳者國：山式排只不之然清同關；細車是！停屋常間又，資畫領生，相們制在？公別的人寫教資夠。資再我我！只臉夫藝量不路政吃息緊回力之；兒足灣電空時局我怎初安。意今一子區首者微陸現際安除發連由子由而走學體區園我車當會，經時取頭，嚴了新科同？很夫營動通打，出和導一樂，查旅他。坐是收外子發物北看蘭戰坐車身做可來。道就學務。</p>
 <p>國新故。</p>
@@ -382,7 +382,7 @@
 <p><em>From <a href="http://www.richyli.com/tool/loremipsum/" target="_blank" rel="external">亂數假文產生器 - Chinese Lorem Ipsum</a></em></p>
 ]]></content>
     <summary type="html">
-    <![CDATA[<p>This is a chinese test post to show you how japanese is displayed.</p>
+    <![CDATA[<p>This is a chinese test post to show you how chinese is displayed.</p>
 <p>善我王上魚、產生資西員合兒臉趣論。畫衣生這著爸毛親可時，安程幾？合學作。觀經而作建。都非子作這！法如言子你關！手師也。<br>]]>
     
     </summary>
@@ -421,8 +421,9 @@
     <link href="http://louisbarranqueiro.github.io/hexo-theme-tranquilpeak/2013/01/03/%E6%97%A5%E6%9C%AC%E8%AA%9E%E3%83%86%E3%82%B9%E3%83%88/"/>
     <id>http://louisbarranqueiro.github.io/hexo-theme-tranquilpeak/2013/01/03/日本語テスト/</id>
     <published>2013-01-02T23:30:04.000Z</published>
-    <updated>2015-12-11T17:38:49.000Z</updated>
-    <content type="html"><![CDATA[<p>This is a Japanese test post to show you how japanese is displayed.<br>私は昨日ついにその助力家というのの上よりするたなけれ。<br><a id="more"></a><br>最も今をお話団はちょうどこの前後なかろでくらいに困りがいるたをは帰着考えたなかって、そうにもするでうたらない。<br>がたを知っないはずも同時に九月をいよいよたありた。</p>
+    <updated>2015-12-27T11:15:31.000Z</updated>
+    <content type="html"><![CDATA[<p>This is a Japanese test post to show you how japanese is displayed.</p>
+<p>私は昨日ついにその助力家というのの上よりするたなけれ。<br><a id="more"></a><br>最も今をお話団はちょうどこの前後なかろでくらいに困りがいるたをは帰着考えたなかって、そうにもするでうたらない。<br>がたを知っないはずも同時に九月をいよいよたありた。</p>
 <p>もっと槙さんにぼんやり金少し説明にえた自分大した人私か影響にというお関係たうませないが、この次第も私か兄具合に使うて、槙さんののに当人のあなたにさぞご意味と行くて私個人が小尊敬を聴いように同時に同反抗に集っだうて、いよいよまず相当へあっうからいだ事をしでなけれ。</p>
 <blockquote>
 <p>それでそれでもご時日をしはずはたったいやと突き抜けるますて、その元がは行ったてという獄を尽すていけですた。</p>
@@ -431,7 +432,8 @@
 <p><em>From <a href="http://lipsum.sugutsukaeru.jp/index.cgi" target="_blank" rel="external">すぐ使えるダミーテキスト - 日本語 Lorem ipsum</a></em></p>
 ]]></content>
     <summary type="html">
-    <![CDATA[<p>This is a Japanese test post to show you how japanese is displayed.<br>私は昨日ついにその助力家というのの上よりするたなけれ。<br>]]>
+    <![CDATA[<p>This is a Japanese test post to show you how japanese is displayed.</p>
+<p>私は昨日ついにその助力家というのの上よりするたなけれ。<br>]]>
     
     </summary>
     
