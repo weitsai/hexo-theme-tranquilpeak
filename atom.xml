@@ -4,7 +4,7 @@
   
   <link href="/hexo-theme-tranquilpeak//atom.xml" rel="self"/>
   <link href="http://louisbarranqueiro.github.io/hexo-theme-tranquilpeak/"/>
-  <updated>2015-12-27T11:15:25.000Z</updated>
+  <updated>2016-01-01T13:24:26.000Z</updated>
   <id>http://louisbarranqueiro.github.io/hexo-theme-tranquilpeak/</id>
   
   <author>
@@ -19,13 +19,13 @@
     <link href="http://louisbarranqueiro.github.io/hexo-theme-tranquilpeak/2015/06/15/Welcome-to-the-new-Tranquilpeak/"/>
     <id>http://louisbarranqueiro.github.io/hexo-theme-tranquilpeak/2015/06/15/Welcome-to-the-new-Tranquilpeak/</id>
     <published>2015-06-15T20:30:05.000Z</published>
-    <updated>2015-12-27T11:15:25.000Z</updated>
+    <updated>2016-01-01T13:24:26.000Z</updated>
     <content type="html"><![CDATA[<!-- excerpt --></p>
 <p><img src="http://d1u9biwaxjngwg.cloudfront.net/showcases/showcase-v1.6.jpg" alt="Tranquilpeak"><br>Tranquilpeak is a gorgeous responsive theme for Hexo blog framework. It has many features and integrated services to improve user experience.</p>
 <!-- toc -->
 <h2 id="General">General</h2><ul>
 <li><strong>Author</strong> : Louis Barranqueiro</li>
-<li><strong>Version</strong> : 1.6.1 </li>
+<li><strong>Version</strong> : 1.6.2</li>
 <li><strong>Compatibility</strong> : Hexo 3.0.0 or later</li>
 </ul>
 <h2 id="Features">Features</h2><p><strong>General features :</strong>  </p>
@@ -64,7 +64,7 @@
 <h2 id="Quick_start">Quick start</h2><p>Please read <a href="https://github.com/LouisBarranqueiro/hexo-theme-tranquilpeak/blob/master/docs/user.md" target="_blank" rel="external">user documentation</a>, it’s short and useful to discover all features and possibilities of the theme, especially the  <a href="https://github.com/LouisBarranqueiro/hexo-theme-tranquilpeak/blob/master/docs/user.md#writing-posts" target="_blank" rel="external">writing posts</a> section</p>
 <p><strong>For people who want to use the original version of Tranquilpeak (users)</strong> :</p>
 <ol>
-<li>Download the latest version ready for production utilisation here : <a href="https://github.com/LouisBarranqueiro/hexo-theme-tranquilpeak/releases/download/v1.6.1/hexo-theme-tranquilpeak-built-for-production-1.6.1.zip" target="_blank" rel="external">hexo-theme-tranquilpeak-prod-1.6.1</a>  </li>
+<li>Download the latest version ready for production utilisation here : <a href="https://github.com/LouisBarranqueiro/hexo-theme-tranquilpeak/releases/download/v1.6.2/hexo-theme-tranquilpeak-built-for-production-1.6.2.zip" target="_blank" rel="external">hexo-theme-tranquilpeak-prod-1.6.2</a>  </li>
 <li>Follow <a href="https://github.com/LouisBarranqueiro/hexo-theme-tranquilpeak/blob/master/docs/user.md" target="_blank" rel="external">user documentation</a> to install and configure the theme  </li>
 </ol>
 <p><strong>For people who want to create their own version of tranquilpeak (developers)</strong> :</p>
